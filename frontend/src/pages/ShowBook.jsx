@@ -44,8 +44,8 @@ function ShowBook() {
             <span>{book.author}</span>
           </div>
           <div className="my-4">
-            <span className="text-xl mr-4 text-gray-500">Author</span>
-            <span>{book.author}</span>
+            <span className="text-xl mr-4 text-gray-500">Publish Year</span>
+            <span>{book.publishYear}</span>
           </div>
           <div className="my-4">
             <span className="text-xl mr-4 text-gray-500">Create Time</span>
